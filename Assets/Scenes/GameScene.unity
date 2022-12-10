@@ -1435,7 +1435,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 686377328}
         m_TargetAssemblyTypeName: PlayerController, Assembly-CSharp
         m_MethodName: ChangeInvincibleState
         m_Mode: 1
